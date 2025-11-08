@@ -1,7 +1,7 @@
 {
   "name": "modulewebui",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -31,14 +31,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/APMMDEVS/ModuleWebUI.git"
+    "url": "git+https://github.com/MemDeco-WG/ModuleWebUI.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/APMMDEVS/ModuleWebUI/issues"
+    "url": "https://github.com/MemDeco-WG/ModuleWebUI/issues"
   },
-  "homepage": "https://github.com/APMMDEVS/ModuleWebUI#readme",
+  "homepage": "https://github.com/MemDeco-WG/ModuleWebUI#readme",
   "description": ""
 }
