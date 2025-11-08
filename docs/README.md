@@ -10,7 +10,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/APMMDEVS/ModuleWebUI.git
+git clone https://github.com/MemDeco-WG/ModuleWebUI.git
 cd ModuleWebUI
 
 ./build.sh
