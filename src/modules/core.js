@@ -6,10 +6,10 @@
 
 export const Core = {
   // 模块路径
-  MODULE_PATH: "/data/adb/modules/ModuleWebUI/",
+  MODULE_PATH: "/data/adb/modules//",
 
   // Debug日志文件路径
-  DEBUG_LOG_PATH: "/data/adb/ModuleWebUI/debug.log",
+  DEBUG_LOG_PATH: "/data/adb//debug.log",
 
   // 检测是否在KSU环境中
   isKSUEnvironment() {

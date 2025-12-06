@@ -407,7 +407,7 @@ class SettingsPage {
     const lines = [
       "#!/bin/bash",
       "",
-      "# ModuleWebUI Configuration",
+      "#  Configuration",
       "# Generated automatically - do not edit manually",
       ""
     ];

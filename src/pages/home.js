@@ -173,7 +173,7 @@ class HomePage {
         window.core.execCommand(`cat "${statusFile}"`, (output, success) => {
           if (success && output) {
             const info = {
-              name: "ModuleWebUI",
+              name: "",
               path: modulePath,
               lastUpdate: new Date().toISOString(),
             };
