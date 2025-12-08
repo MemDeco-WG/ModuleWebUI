@@ -1,26 +1,33 @@
 {
   "pages": {
+    "devguide": {
+      "title": "nav.devguide",
+      "icon": "menu_book",
+      "module": "devguide",
+      "showInNav": true,
+      "order": 1
+    },
     "home": {
       "title": "nav.home",
       "icon": "home",
       "module": "home",
       "showInNav": true,
-      "order": 1
+      "order": 2
     },
     "logs": {
       "title": "nav.logs",
       "icon": "description",
       "showInNav": true,
-      "order": 2,
+      "order": 3,
       "module": "logs"
     },
     "settings": {
       "title": "nav.settings",
       "icon": "settings",
       "showInNav": true,
-      "order": 3,
+      "order": 4,
       "module": "settings"
     }
   },
-  "defaultPage": "home"
+  "defaultPage": "devguide"
 }

@@ -30,7 +30,21 @@
     "home": "Home",
     "logs": "Logs",
     "settings": "Settings",
-    "about": "About"
+    "about": "About",
+    "devguide": "Developer Guide"
+  },
+  "devguide": {
+    "title": "Developer Guide",
+    "subtitle": "Developer guide and module/plugin documentation",
+    "loading": "Loading developer guide...",
+    "notFound": "Developer guide not found",
+    "tryAgain": "Please ensure the `docs/develop.md` file exists.",
+    "openRaw": "Open Raw",
+    "openRepo": "Open repository",
+    "copyDocLink": "Copy doc link",
+    "copySuccess": "Copied to clipboard",
+    "copyFailed": "Copy failed",
+    "refresh": "Refresh"
   },
   "home": {
     "modules": {

@@ -30,7 +30,21 @@
     "home": "首页",
     "logs": "日志",
     "settings": "设置",
-    "about": "关于"
+    "about": "关于",
+    "devguide": "开发指南"
+  },
+  "devguide": {
+    "title": "开发指南",
+    "subtitle": "开发指南与模块/插件文档",
+    "loading": "正在加载开发指南...",
+    "openRepo": "打开仓库",
+    "copyDocLink": "复制文档链接",
+    "copySuccess": "已复制到剪贴板",
+    "copyFailed": "复制失败",
+    "refresh": "刷新",
+    "notFound": "未找到开发指南",
+    "tryAgain": "请确认 `docs/develop.md` 文件存在。",
+    "openRaw": "打开原文"
   },
   "home": {
     "modules": {
