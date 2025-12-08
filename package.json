@@ -18,16 +18,16 @@
     "doc": "docs"
   },
   "dependencies": {
-    "esbuild": "^0.25.8",
-    "fdir": "^6.4.6",
-    "glob": "^11.0.3",
+    "esbuild": "^0.25.12",
+    "fdir": "^6.5.0",
+    "glob": "^11.1.0",
     "nanoid": "^3.3.11",
     "picocolors": "^1.1.1",
     "picomatch": "^4.0.3",
     "postcss": "^8.5.6",
-    "rollup": "^4.45.1",
+    "rollup": "^4.53.3",
     "source-map-js": "^1.2.1",
-    "tinyglobby": "^0.2.14"
+    "tinyglobby": "^0.2.15"
   },
   "repository": {
     "type": "git",
@@ -35,7 +35,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MemDeco-WG/ModuleWebUI/issues"
   },
