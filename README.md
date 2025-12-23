@@ -1,5 +1,5 @@
 # ModuleWebUI / 页面模块管理系统
-
+项目将重构，此版本问题太多且基本不可用
 A modern Android Root universal module management web UI built with Vite — a modular, plugin-friendly frontend for Android Root modules and tooling.
 
 一个基于 Vite 构建的现代化安卓 Root 通用模块管理 Web 界面，提供模块化页面系统、插件开发能力与国际化支持。
